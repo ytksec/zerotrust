@@ -17,29 +17,24 @@
 ## 主要コンポーネント
 
 + IDaaS(Identity as a Service)
-
-ID管理、認証機能をクラウドで提供している製品。
-Okta、OneLogin、AzureADあたりが有名
+  + ID管理、認証機能をクラウドで提供している製品。
+  + Okta、OneLogin、AzureADあたりが有名
 
 + EDR(Endpoint Detection and Response)
-
-PC、サーバー、スマートフォン、タブレットなどのネットワークに接続されているエンドポイントの操作や動作の監視を行い、サイバー攻撃を受けたことを発見し次第対処するソフトウェアの総称。  
-Crowdstrike、Carbon Black、Cybereason、Sophosあたりが有名
+  + PC、サーバー、スマートフォン、タブレットなどのネットワークに接続されているエンドポイントの操作や動作の監視を行い、サイバー攻撃を受けたことを発見し次第対処するソフトウェアの総称。  
+  + Crowdstrike、Carbon Black、Cybereason、Sophosあたりが有名
 
 + SWG(Secure Web Gateway)
-
-外部へのアクセスを安全に快適な状態で行うためのクラウド型プロキシ。  
-Zscaler、Netskope、iboss、Cisco Umbrellaあたりが有名
+  + 外部へのアクセスを安全に快適な状態で行うためのクラウド型プロキシ。  
+  + Zscaler、Netskope、iboss、Cisco Umbrellaあたりが有名
 
 + CASB(Cloud Access Security Broker)
-
-ユーザー（企業）と複数のクラウドプロバイダーの間に単一のコントロールポイントを設けて、クラウドサービスの利用状況を可視化/制御することで、一貫性のあるセキュリティポリシーを適用するクラウドゲートウェイ。  
-SWGとセットで提供されている場合が多い。  
-Netskope、McAfee MVISION CLOUDあたりが有名
+  + ユーザー（企業）と複数のクラウドプロバイダーの間に単一のコントロールポイントを設けて、クラウドサービスの利用状況を可視化/制御することで、一貫性のあるセキュリティポリシーを適用するクラウドゲートウェイ。  
+  + SWGとセットで提供されている場合が多い。  
+  + Netskope、McAfee MVISION CLOUDあたりが有名
 
 + IAP(Identity Aware Proxy)
-
-リモート環境からオンプレミスやプライベートクラウドへのアクセスをする際にユーザーとアプリケーションの間に入って通信を仲介するプロキシ。
+  + リモート環境からオンプレミスやプライベートクラウドへのアクセスをする際にユーザーとアプリケーションの間に入って通信を仲介するプロキシ。
 
 ## 一般的ゼロトラスト ネットワークへの移行手順
 
